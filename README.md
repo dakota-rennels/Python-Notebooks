@@ -1,5 +1,6 @@
 # Python-Notebooks
-Repository for all Python Notebooks I work with or build from
+Repository for all Python Notebooks I work with or build from.
+#### Disclaimer! I leverage either Azure or GCP for most coding as I develop E2E systems that usually require some form of virtual machine or Kubernetes to deploy and run.
 
 ## Table of Contents
 - **Chatbot Scripts:** Contain any Python scripts related to deployed chatbots.
