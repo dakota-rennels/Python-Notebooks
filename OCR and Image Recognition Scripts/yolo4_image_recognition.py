@@ -1,3 +1,6 @@
+# IMPORTANT! For information on how to use this information, see "Step-by-Step Guide for Running YOLOv4 in Jupyter Notebook" in the same Github repo folder.
+# To use, please clone "darknet.zip in this folder.
+
 # !curl https://sdk.cloud.google.com | bash
 !gcloud init
 
